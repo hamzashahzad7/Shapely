@@ -1,0 +1,877 @@
+@media only screen and (max-width:600px) {
+    /* body {
+        background-color: rgb(0, 191, 255);
+    } */
+
+    Nav ul {
+        display: none;
+    }
+
+    #icon {
+
+        color: white;
+    }
+
+    .header-sub {
+        width: 100%;
+    }
+
+    .header-sub-h1 {
+        font-size: 40px;
+    }
+
+    .blog-left img {
+
+        height    : 200px;
+        width     : 285px;
+        margin-top: 226px;
+    }
+
+    .portfolio-img {
+        height    : 168px;
+        width     : 200px;
+        margin-top: 30px;
+
+    }
+
+    .portfolio-right img {
+
+        position   : absolute;
+        height     : 200px;
+        width      : 250px;
+        margin-left: 350px;
+        margin-top : 250px;
+    }
+
+    .about-sub {
+
+        width: 100%;
+    }
+
+    .about-h {
+        font-size     : 25px;
+        padding-bottom: 13px;
+    }
+
+    .about-p {
+        font-size: 13px;
+    }
+
+    .about-btn {
+        padding    : 10px;
+        font-size  : 12px;
+        font-weight: bold;
+    }
+
+    .level-sub {
+        width: 100%;
+    }
+
+    .level-h {
+        font-size  : 30px;
+        font-weight: bold;
+    }
+
+    .level-p {
+        width        : 80%;
+        margin-left  : 50px;
+        margin-bottom: 0px;
+    }
+
+    .level-btn {
+        padding    : 10px 15px 10px;
+        font-size  : 12px;
+        font-weight: bold;
+    }
+
+    .shop {
+        width : 100%;
+        height: 350px;
+    }
+
+    .shop-img {
+        width : 78%;
+        height: 300px;
+        left  : 68px;
+
+    }
+
+    .gallery {
+        width : 100%;
+        height: auto;
+    }
+
+    .gallery-h {
+        letter-spacing: 1px;
+        font-size     : 25px;
+        padding-top   : 40px;
+        padding-bottom: 10px;
+    }
+
+    .gallery-p {
+        letter-spacing: 3px;
+    }
+
+    .gallery-sub {
+        width : 100%;
+        height: auto;
+    }
+
+    .gallery-img1 {
+        width      : 90%;
+        height     : 20%;
+        margin-left: 33px;
+
+    }
+
+    .gallery-img2 {
+        width      : 90%;
+        height     : 20%;
+        margin-left: -115px;
+        position   : relative;
+        margin-top : 10px;
+    }
+
+    .gallery-img3 {
+        width      : 90%;
+        height     : 20%;
+        margin-left: -265px;
+        position   : relative;
+        margin-top : 10px;
+    }
+
+    .gallery-img4 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+    }
+
+    .gallery-img5 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+    }
+
+    .gallery-img6 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+    }
+
+    .gallery-img7 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+    }
+
+    .gallery-img8 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+    }
+
+    .gallery-img9 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+
+    }
+
+    .gallery-img10 {
+        width   : 90%;
+        height  : 20%;
+        top     : 45%;
+        left    : 6%;
+        position: relative;
+    }
+
+    .customer {
+        width : 100%;
+        height: 250px;
+
+    }
+
+    .customer-sub {
+        width   : 100%;
+        position: relative;
+        top     : 40%;
+    }
+
+    .customer-h {
+        margin-top    : -180px;
+        font-size     : 20px;
+        margin-bottom : 0px;
+        font-weight   : 100;
+        letter-spacing: 3px;
+    }
+
+    .customer-p {
+        font-size: 15px;
+        margin   : 30px;
+    }
+
+    .clients {
+        width : 100%;
+        height: 150px;
+    }
+
+    .client-sub {
+        width   : 100%;
+        position: relative;
+        top     : 40%;
+    }
+
+    .client-h {
+        position      : relative;
+        top           : 1%;
+        font-size     : 18px;
+        font-weight   : 100;
+        margin-bottom : 20px;
+        letter-spacing: 4px;
+    }
+
+    .client-nav li {
+        float      : left;
+        padding    : 0px 40px;
+        list-style : none;
+        font-size  : 35px;
+        margin-left: 30px;
+    }
+
+    .review {
+        width : 100%;
+        height: 200px;
+    }
+
+    .review-sub-left {
+        width : 70%;
+        height: 200px;
+    }
+
+    .review-h {
+        font-size     : 20px;
+        letter-spacing: 1px;
+        position      : absolute;
+        top           : 25%;
+        left          : 18%;
+    }
+
+    .review-sub-right {
+        width : 30%;
+        height: 200px;
+    }
+
+    .review-btn {
+        font-size       : 10px;
+        padding         : 10px;
+        background-color: cornflowerblue;
+        position        : absolute;
+        top             : 60%;
+        text-decoration : none;
+        color           : white;
+        font-weight     : bold;
+        left            : -150px;
+    }
+
+    footer {
+        width : 100%;
+        height: 100px;
+
+    }
+
+    .footer-sub-left {
+        width : 70%;
+        height: 100px;
+
+    }
+
+    .footer-sub-right {
+        width : 30%;
+        height: 100px;
+
+    }
+
+    .footer-ul {
+        font-size: 20px;
+    }
+
+    .footer-ul li {
+        float     : left;
+        list-style: none;
+        padding   : 0px 5px;
+        margin-top: -22px;
+        font-size : 20px;
+
+    }
+
+    .footer-h {
+        font-size  : 18px;
+        padding-top: 30px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* body {
+        background-color: rgb(255, 176, 152);
+    } */
+
+    nav ul {
+        display: none;
+    }
+
+    .blog-right-h1 {
+        font-size    : 53px;
+        margin-top   : -9px;
+        margin-bottom: 20px;
+    }
+
+    .blog-left img {
+        height     : 272px;
+        width      : 362px;
+        margin-top : 171px;
+        margin-left: 36px;
+    }
+
+    .portfolio {
+        height: 458px;
+        width : 100%;
+    }
+
+    .portfolio-h1 {
+
+        font-size     : 46px;
+        padding-bottom: 22px;
+        margin-top    : -68px;
+
+    }
+
+    .portfolio-right img {
+        height     : 257px;
+        width      : 339px;
+        margin-left: 429px;
+        margin-top : 126px;
+    }
+
+    .portfolio-p {
+
+        font-size     : 15px;
+        padding-bottom: 10px;
+
+    }
+
+    .shop {
+
+        width : 100%;
+        height: 360px;
+
+    }
+
+    .shop-img {
+        width : 83%;
+        height: 361px;
+        left  : 65px;
+    }
+
+    .gallery-img1 {
+        width      : 50%;
+        height     : 20%;
+        margin-left: 1px;
+
+    }
+
+    .gallery-img2 {
+        width   : 370px;
+        height  : 20%;
+        position: relative;
+        top     : 0px;
+        left    : 7px;
+    }
+
+    .gallery-img3 {
+        width   : 50%;
+        height  : 19%;
+        position: relative;
+        top     : 3px;
+        left    : 0%;
+    }
+
+    .gallery-img4 {
+        width   : 48%;
+        height  : 19%;
+        position: relative;
+        top     : 3px;
+        left    : 1%;
+
+    }
+
+    .gallery-img5 {
+        width   : 50%;
+        height  : 19%;
+        top     : 7px;
+        left    : 0;
+        position: relative;
+    }
+
+    .gallery-img6 {
+        width   : 48%;
+        height  : 19%;
+        top     : 7px;
+        left    : 7px;
+        position: relative;
+    }
+
+    .gallery-img7 {
+        width   : 50%;
+        height  : 19%;
+        top     : 7px;
+        left    : 0;
+        position: relative;
+    }
+
+    .gallery-img8 {
+        width   : 48%;
+        height  : 19%;
+        top     : 7px;
+        left    : 7px;
+        position: relative;
+    }
+
+    .gallery-img9 {
+        width   : 50%;
+        height  : 19%;
+        top     : 7px;
+        left    : 0;
+        position: relative;
+
+    }
+
+    .gallery-img10 {
+        width   : 48%;
+        height  : 19%;
+        top     : 7px;
+        left    : 7px;
+        position: relative;
+    }
+
+    .customer {
+        background-color: wheat;
+        width           : 100%;
+        height          : 380px;
+    }
+
+    .customer-sub {
+
+        left: 50%;
+        top : 50%;
+
+    }
+
+    .customer-h {
+        font-size : 29px;
+        margin-top: 4px;
+
+    }
+
+    .customer-p {
+        font-size : 15px;
+        margin-top: -18px;
+    }
+
+    .clients {
+        height: 200px;
+        width : 100%;
+
+    }
+
+    .client-h {
+        font-size : 24px;
+        margin-top: 30px;
+
+    }
+
+    .client-nav li {
+
+        padding  : 0px 26px;
+        font-size: 35px;
+    }
+
+    .review {
+        width : 100%;
+        height: 130px;
+    }
+
+    .review-h {
+        font-size: 23px;
+        top      : 18%;
+        left     : 12%;
+    }
+
+    .review-btn {
+        padding  : 13px;
+        font-size: 12px;
+        top      : 45%;
+        left     : -217px;
+    }
+
+    .review-sub-left {
+        height: 130px;
+    }
+
+    .review-sub-right {
+        height: 130px;
+    }
+
+    footer {
+        height: 100px;
+    }
+
+    .footer-sub-left {
+        width : 70%;
+        height: 100px;
+
+    }
+
+    .footer-h {
+        font-size  : 20px;
+        padding-top: 58px;
+    }
+
+    .footer-sub-right {
+        width : 30%;
+        height: 100px;
+
+
+    }
+
+    .footer-ul li {
+        padding  : 0px 0px;
+        font-size: 21px;
+        padding  : 9px 8px 0px 0px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    /* body {
+        background-color: rgb(0, 191, 255);
+    } */
+
+    nav ul {
+        display: none;
+    }
+
+    .home {
+        height: 380px;
+    }
+
+    .header-sub-h1 {
+        margin-bottom: 20px;
+        margin-top   : -110px;
+        font-size    : 32px;
+
+    }
+
+    .header-sub-btn-1 {
+        padding  : 16px 28px;
+        font-size: 12px;
+    }
+
+    .header-sub-btn-2 {
+        padding  : 13px 28px;
+        font-size: 12px;
+    }
+
+    .blog {
+        height: 430px;
+    }
+
+    .blog-right-h1 {
+        font-size    : 32px;
+        margin-top   : -9px;
+        margin-bottom: 20px;
+    }
+
+    .blog-left img {
+        height    : 190px;
+        width     : 252px;
+        margin-top: 199px;
+    }
+
+    .portfolio {
+
+        width : 100%;
+        height: 420px;
+
+    }
+
+    .portfolio-h1 {
+
+        font-size     : 29px;
+        padding-bottom: 22px;
+        margin-top    : -68px;
+
+    }
+
+    .portfolio-p {
+
+        font-size     : 15px;
+        padding-bottom: px;
+
+    }
+
+    .portfolio-btn {
+        padding   : 15px;
+        font-size : 10px;
+        margin-top: -10px;
+
+
+    }
+
+    .portfolio-right img {
+        height     : 168px;
+        width      : 229px;
+        margin-left: 252px;
+        margin-top : 180px;
+    }
+
+    .shop {
+
+        width : 100%;
+        height: 291px;
+
+    }
+
+    .shop-img {
+        width : 83%;
+        height: 291px;
+        left  : 40px;
+    }
+
+    .gallery-img1 {
+        width      : 91%;
+        height     : 20%;
+        margin-left: 25px;
+        position   : relative;
+
+    }
+
+    .gallery-img2 {
+        width : 90%;
+        height: 400px;
+        left  : 29%;
+    }
+
+    .gallery-img3 {
+        width : 90%;
+        height: 400px;
+        left  : 60%;
+    }
+
+    .gallery-img4 {
+        width     : 90%;
+        height    : 19%;
+        position  : relative;
+        left      : 5%;
+        margin-top: 10px;
+
+    }
+
+    .gallery-img5 {
+        width     : 90%;
+        height    : 19%;
+        top       : 7px;
+        left      : 22px;
+        position  : relative;
+        margin-top: 10px;
+    }
+
+    .gallery-img6 {
+        width     : 90%;
+        height    : 19%;
+        top       : 7px;
+        left      : 22px;
+        position  : relative;
+        margin-top: 10px;
+    }
+
+    .gallery-img7 {
+        width     : 90%;
+        height    : 19%;
+        top       : 7px;
+        left      : 22px;
+        position  : relative;
+        margin-top: 10px;
+    }
+
+    .gallery-img8 {
+        width     : 90%;
+        height    : 19%;
+        top       : 7px;
+        left      : 22px;
+        position  : relative;
+        margin-top: 10px;
+    }
+
+    .gallery-img9 {
+        width     : 90%;
+        height    : 19%;
+        top       : 7px;
+        left      : 22px;
+        position  : relative;
+        margin-top: 10px;
+
+    }
+
+    .gallery-img10 {
+        width     : 90%;
+        height    : 400px;
+        left      : 22px;
+        position  : relative;
+        margin-top: 10px;
+
+    }
+
+    .customer {
+        background-color: wheat;
+        width           : 100%;
+        height          : 380px;
+    }
+
+    .client-nav li {
+
+        padding  : 0px 26px;
+        font-size: 35px;
+    }
+
+    .review-h {
+        font-size: 23px;
+        top      : 18%;
+        left     : 4%;
+    }
+
+    .review-btn {
+        padding  : 13px;
+        font-size: 12px;
+        top      : 57%;
+        left     : -141px;
+    }
+
+    .footer-ul li {
+        padding  : 0px 0px;
+        font-size: 21px;
+        padding  : 9px 8px 0px 0px;
+
+    }
+
+    .customer {
+        background-color: wheat;
+        width           : 100%;
+        height          : 310px;
+    }
+
+    .customer-sub {
+
+        left: 50%;
+        top : 50%;
+
+    }
+
+    .customer-h {
+        font-size : 26px;
+        margin-top: 0px;
+
+    }
+
+    .customer-p {
+        font-size : 14px;
+        margin-top: 19px;
+    }
+
+    .clients {
+        height    : 200px;
+        width     : 100%;
+        position  : relative;
+        margin-top: -29px;
+
+    }
+
+    .client-h {
+        font-size : 24px;
+        margin-top: 30px;
+
+    }
+
+    .client-nav li {
+
+        padding  : 0px 26px;
+        font-size: 35px;
+    }
+
+    .review {
+        width : 100%;
+        height: 130px;
+    }
+
+    .review-h {
+        font-size: 18px;
+        top      : 18%;
+        left     : 12%;
+    }
+
+    .review-btn {
+        padding  : 13px;
+        font-size: 12px;
+        top      : 45%;
+    }
+
+    .review-sub-left {
+        height: 130px;
+    }
+
+    .review-sub-right {
+        height: 130px;
+    }
+
+    footer {
+        height: 100px;
+    }
+
+    .footer-sub-left {
+        width : 70%;
+        height: 100px;
+
+    }
+
+    .footer-h {
+        font-size  : 16px;
+        padding-top: 34px;
+    }
+
+    .footer-sub-right {
+        width : 30%;
+        height: 100px;
+
+
+    }
+
+    .footer-ul li {
+        padding  : 0px 0px;
+        font-size: 21px;
+        padding  : 9px 8px 0px 0px;
+    }
+
+
+
+}
